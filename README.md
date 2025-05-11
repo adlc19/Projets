@@ -2,9 +2,38 @@
 
 Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cybersécurité, Informatique et Réseaux, Électronique).
 
+# 👨‍💻 Mes Projets Informatique
+
 ---
 
-## Calculatrice graphique en C++ avec Qt
+## 🌱 Serre connectée intelligente
+
+- **Langages et outils utilisés** : Python, HTML/CSS/JavaScript, ESP32, capteurs d'humidité, pompe à eau, base de données, matplotlib  
+- **Description** : Projet collectif d’une serre connectée capable de surveiller et d’agir automatiquement sur les conditions de culture d’une plante.  
+- **Ma participation** :
+  - Étude de l’hygrométrie du sol à l’aide d’un capteur connecté (ESP32)
+  - Développement d’un système de pompe à eau automatique déclenchée selon le taux d’humidité
+  - Visualisation de l’historique des données sur un site web avec des graphiques
+- **Fonctionnalités** :
+  - Collecte de données environnementales (sol, température, humidité)
+  - Commande automatique de l’arrosage
+  - Interface web pour la consultation des mesures en temps réel et archivées
+
+---
+
+## 📊 Supervision réseau en milieu hospitalier – Stage à l’hôpital l’Archet
+
+- **Outils utilisés** : Zabbix, Grafana, Linux, documentation technique  
+- **Description** : Mise en place d’un système de supervision du réseau et des serveurs dans l’infrastructure informatique de l’hôpital.  
+- **Ma participation** :
+  - Déploiement de Zabbix sur une machine virtuelle
+  - Création de dashboards de surveillance avec Grafana (CPU, mémoire, services critiques)
+  - Rédaction d’une documentation technique claire pour permettre la prise en main du système
+- **Objectif** : Permettre une surveillance proactive de l'infrastructure informatique, réduire le temps de détection des anomalies
+
+---
+
+## 🧮 Calculatrice graphique en C++ avec Qt
 
 - **Langage utilisé** : C++ avec Qt  
 - **Description** : Application graphique de calculatrice permettant d'effectuer des opérations de base (addition, soustraction, multiplication, division).  
@@ -14,36 +43,3 @@ Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cy
   - Code structuré en classes et objets
 
 ---
-
-## Projet de BTS – Serre Connectée Intelligente
-
-- **Langages & outils utilisés** : HTML, CSS, C++, diagrammes UML  
-- **Description** : Prototype d’interface web pour le contrôle et le suivi d’une serre connectée.  
-- **Contenu** :
-  - Interface utilisateur en HTML/CSS
-  - Diagramme de cas d’utilisation
-  - Schéma d’architecture du système (capteurs, microcontrôleur, base de données)
-  - Le projet visait à concevoir une serre autonome capable de surveiller et d’optimiser les conditions de croissance d’une plante. 
-  Fonctionnalités globales : 
-    
-    Capteurs de température, humidité et hygrométrie du sol. 
-    
-    Toit ouvrant motorisé selon les conditions climatiques. 
-    
-    Pompe à eau déclenchée automatiquement en fonction de l’humidité du sol. 
-    
-    Caméra pour suivi visuel de la plante. 
-    
-    Site web pour affichage en temps réel et historique des données. 
-    
-    Ma contribution : 
-    
-    Étude et exploitation du capteur d’hygrométrie du sol. 
-    
-    Intégration et automatisation de la pompe à eau via microcontrôleur ESP32. 
-    
-    Développement des graphiques et du système d’historique sur l’interface web locale. 
-    
-    Participation aux tests matériels et au bon fonctionnement de l'ensemble. 
-
- Les fichiers sont disponibles dans ce dépôt.
