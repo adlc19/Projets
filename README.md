@@ -1,6 +1,6 @@
 # Projets réalisés – BTS CIEL
 
-Ce dépôt regroupe deux projets développés durant ma formation en BTS CIEL (Cybersécurité, Informatique et Réseaux, Électronique).
+Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cybersécurité, Informatique et Réseaux, Électronique).
 
 ---
 
