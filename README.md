@@ -8,7 +8,7 @@ Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cy
 
 ## 🌱 Serre connectée intelligente
 
-- **Langages et outils utilisés** : Python, HTML/CSS/JavaScript, ESP32, capteurs d'humidité, pompe à eau, base de données, matplotlib  
+- **Langages et outils utilisés** : Python, HTML/CSS/JavaScript, ESP32, capteurs d'humidité, pompe à eau, base de données, mariadb 
 - **Description** : Projet collectif d’une serre connectée capable de surveiller et d’agir automatiquement sur les conditions de culture d’une plante.  
 - **Ma participation** :
   - Étude de l’hygrométrie du sol à l’aide d’un capteur connecté (ESP32)
