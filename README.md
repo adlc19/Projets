@@ -26,6 +26,8 @@ Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cy
 
 ## 📊 Supervision réseau en milieu hospitalier – Stage à l’hôpital l’Archet
 
+![Photo Archet](stage/archet1.jpg)
+
 - **Outils utilisés** : Zabbix, Grafana, Linux, documentation technique  
 - **Description** : Mise en place d’un système de supervision du réseau et des serveurs dans l’infrastructure informatique de l’hôpital.  
 - **Ma participation** :
