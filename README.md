@@ -8,7 +8,7 @@ Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cy
 
 ## 🌱 Serre connectée intelligente
 
-![Photo serre](serre/photo_serre1.jpg)
+![Photo serre](serre/photoserre1.jpg)
 
 
 - **Langages et outils utilisés** : Arduino, RaspberryPi, Routeur, PHP/HTML/CSS/JavaScript/C++, capteurs d'humidité, pompe à eau, servomoteur, capteur de température, caméra avec utilisation de Motion, base de données, mariadb.
