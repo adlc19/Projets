@@ -11,7 +11,7 @@ Ce dépôt regroupe mes projets développés durant ma formation en BTS CIEL (Cy
 ![Photo serre](serre/photo_serre1.jpg)
 
 
-- **Langages et outils utilisés** : Arduino, RaspberryPi, PHP/HTML/CSS/JavaScript/C++, capteurs d'humidité, pompe à eau, servomoteur, capteur de température, caméra avec utilisation de Motion, base de données, mariadb.
+- **Langages et outils utilisés** : Arduino, RaspberryPi, Routeur, PHP/HTML/CSS/JavaScript/C++, capteurs d'humidité, pompe à eau, servomoteur, capteur de température, caméra avec utilisation de Motion, base de données, mariadb.
 - **Description** : Projet collectif d’une serre connectée capable de surveiller et d’agir automatiquement sur les conditions de culture d’une plante.  
 - **Ma participation** :
   - Étude de l’hygrométrie du sol à l’aide d’un capteur capacitif.
